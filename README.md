@@ -1,0 +1,2 @@
+# MBTI_personality_tester
+基于CNN、RNN和时序人脸图像的MBTI性格分析
